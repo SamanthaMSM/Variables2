@@ -15,7 +15,7 @@ namespace CalculoArea
             int Area = (a * b/2);
 
             Console.WriteLine("El Área del triángulo es: " + Area);
-            Console.WriteLine("Presiona una tecla para finalizar");
+            Console.WriteLine("Presiona una tecla para finaliDzar");
             Console.ReadKey();
 
         }
